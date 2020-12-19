@@ -1,7 +1,7 @@
 ### Education
 - Senior in Computer Science at [**University of Illinois at Urbana-Champaign**](https://illinois.edu/) (2017 - 2021)
   - 3.8 / 4.0 GPA
-  - Relevant Courses: Data Structures, Algorithms, Web Programming, Systems Programming, Database Systems, Artificial Intelligence
+  - Relevant Courses: Data Structures, Algorithms, Web Programming, Systems Programming, Database Systems, Artificial Intelligence, Deep Learning, IoT
 
 ### Work Experience
 - SDE1 at [**Amazon**](https://www.amazon.com/) on the Kiva Picking Optimization team (upcoming 2021)
