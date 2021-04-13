@@ -20,6 +20,9 @@
 - 🏆 [**Bose®**](https://www.bose.com/) Award of Excellence (2017)
 - 🏆 [**RIT**](https://www.rit.edu/) Innovation and Creativity Award (2017)
 
+<details>
+  <summary>More</summary>
+
 #### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefftc/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCWdkgNnS-_4xWmlyJ95qt-w)
@@ -35,3 +38,5 @@
 #### Setup
 
 ![Macbook](https://img.shields.io/badge/Apple-MacBook_Pro_2019-999999?style=flat&logo=apple&logoColor=white) ![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=white)
+
+</details>
