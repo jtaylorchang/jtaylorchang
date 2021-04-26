@@ -1,8 +1,7 @@
 ### Education
-- Senior in Computer Science at [**University of Illinois at Urbana-Champaign**](https://illinois.edu/) (2017 - 2021)
+- B.S. in Computer Science at [**University of Illinois at Urbana-Champaign**](https://illinois.edu/) (2017 - 2021)
   - 3.84 / 4.0 GPA
   - Dean's List
-  - Relevant Courses: Data Structures, Algorithms, Web Programming, Systems Programming, Database Systems, Artificial Intelligence, Deep Learning, IoT
 
 ### Work Experience
 - ⏭&nbsp;&nbsp;SDE1 at [**Amazon**](https://www.amazon.com/) on the Kiva Picking Optimization team (upcoming 2021)
@@ -10,6 +9,10 @@
 - ✅&nbsp;&nbsp;SDE Intern at [**Amazon**](https://www.amazon.com/) on the Kiva Picking Optimization team (2020)
 - ✅&nbsp;&nbsp;SDE Intern at [**128 Technology**](https://www.128technology.com/) (acquired by [Juniper Networks](https://www.juniper.net/)) on the GUI team (2019)
 - ✅&nbsp;&nbsp;SDE Intern at [**Cognition**](https://cognition.us/) on the Platforms team (2018)
+
+### Volunteer
+- 🔄&nbsp;&nbsp;Co-Founder and Co-President of [**Actually Colab**](https://www.actuallycolab.org/) (2021 - present)
+  - Non-Profit that develops a real-time collaborative cloud-based Jupyter platform to expand opportunities for collaborative remote learning
 
 ### Awards and Leadership
 - 🏆&nbsp;&nbsp;[**HackIllinois 2021**](https://devpost.com/software/actually-colab-real-time-collaborative-jupyter-editor) 1st place (2021)
