@@ -11,7 +11,7 @@
 - ✅&nbsp;&nbsp;SDE Intern at [**Cognition**](https://cognition.us/) on the Platforms team (2018)
 
 ### Volunteer
-- 🔄&nbsp;&nbsp;Co-Founder and Co-President of [**Actually Colab**](https://www.actuallycolab.org/) (2021 - present)
+- 🔄&nbsp;&nbsp;Co-Founder of [**Actually Colab**](https://www.actuallycolab.org/) (2021 - present)
   - Non-Profit that develops a real-time collaborative cloud-based Jupyter platform to expand opportunities for collaborative remote learning
 
 ### Awards and Leadership
