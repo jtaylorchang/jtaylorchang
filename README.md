@@ -5,20 +5,20 @@
 
 ### Work Experience
 - ⏭&nbsp;&nbsp;SDE1 at [**Amazon**](https://www.amazon.com/) on the Kiva Picking Optimization team (upcoming 2021)
-- 🔄&nbsp;&nbsp;Course Assistant at [**UIUC**](https://cs.illinois.edu/academics/courses/cs242) on the CS 242 course staff (2021)
+- ✅&nbsp;&nbsp;Course Assistant at [**UIUC**](https://cs.illinois.edu/academics/courses/cs242) on the CS 242 course staff (2021)
 - ✅&nbsp;&nbsp;SDE Intern at [**Amazon**](https://www.amazon.com/) on the Kiva Picking Optimization team (2020)
 - ✅&nbsp;&nbsp;SDE Intern at [**128 Technology**](https://www.128technology.com/) (acquired by [Juniper Networks](https://www.juniper.net/)) on the GUI team (2019)
 - ✅&nbsp;&nbsp;SDE Intern at [**Cognition**](https://cognition.us/) on the Platforms team (2018)
 
 ### Volunteer
 - 🔄&nbsp;&nbsp;Co-Founder of [**Actually Colab**](https://www.actuallycolab.org/) (2021 - present)
-  - Non-Profit that develops a real-time collaborative cloud-based Jupyter platform to expand opportunities for collaborative remote learning
+  - 501c3 Non-Profit that develops a real-time collaborative cloud-based Jupyter platform to expand opportunities for collaborative remote learning without the high cost of existing tools
 
 ### Awards and Leadership
 - 🏆&nbsp;&nbsp;[**HackIllinois 2021**](https://devpost.com/software/actually-colab-real-time-collaborative-jupyter-editor) 1st place (2021)
-- ⭐️&nbsp;&nbsp;[**IoT Systems Research Group**](https://ece.illinois.edu/about/directory/faculty/caesar) Lead developer (2020 - present)
+- ⭐️&nbsp;&nbsp;[**IoT Systems Research Group**](https://ece.illinois.edu/about/directory/faculty/caesar) Lead developer (2020 - 2021)
 - 🏆&nbsp;&nbsp;[**HackIllinois 2020**](https://devpost.com/software/uiuc-acm-member-to-meeting-matcher-service) 2nd place (2020)
-- ⭐️&nbsp;&nbsp;[**Theta Tau**](https://www.kappathetatau.org/) Web Chair (2019 - present)
+- ⭐️&nbsp;&nbsp;[**Theta Tau**](https://www.kappathetatau.org/) Web Chair (2019 - 2021)
 - 🏆&nbsp;&nbsp;[**54.io 2017**](http://founders.illinois.edu/fiftyfour/) 2nd place (2017)
 - 🏆&nbsp;&nbsp;[**Bose®**](https://www.bose.com/) Award of Excellence (2017)
 - 🏆&nbsp;&nbsp;[**RIT**](https://www.rit.edu/) Innovation and Creativity Award (2017)
