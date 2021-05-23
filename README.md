@@ -1,6 +1,7 @@
 ### Education
-- B.S. in Computer Science at [**University of Illinois at Urbana-Champaign**](https://illinois.edu/) (2017 - 2021)
-  - 3.84 / 4.0 GPA
+- Bachelor of Science in Computer Science at [**University of Illinois at Urbana-Champaign**](https://illinois.edu/) (2017 - 2021)
+  - 3.85 / 4.0 GPA
+  - Graduated with High Honors
   - Dean's List
 
 ### Work Experience
