@@ -11,7 +11,7 @@
 - ✅&nbsp;&nbsp;SDE Intern at [**128 Technology**](https://www.128technology.com/) (acquired by [Juniper Networks](https://www.juniper.net/)) on the GUI team (2019)
 - ✅&nbsp;&nbsp;SDE Intern at [**Cognition**](https://cognition.us/) on the Platforms team (2018)
 
-### Volunteer
+### Volunteer Experience
 - 🔄&nbsp;&nbsp;Co-Founder of [**Actually Colab**](https://www.actuallycolab.org/) (2021 - present)
   - 501c3 Non-Profit that develops a real-time collaborative cloud-based Jupyter platform to expand opportunities for collaborative remote learning without the high cost of existing tools
 
