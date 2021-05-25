@@ -17,7 +17,7 @@
 
 ### Awards and Leadership
 - 🏆&nbsp;&nbsp;[**HackIllinois 2021**](https://devpost.com/software/actually-colab-real-time-collaborative-jupyter-editor) 1st Place (2021)
-- ⭐️&nbsp;&nbsp;[**IoT Systems Research Group**](https://ece.illinois.edu/about/directory/faculty/caesar) Overall Group Lead, Web Frontend and API Backend Team Lead (2020 - 2021)
+- ⭐️&nbsp;&nbsp;[**IoT Systems Research Group**](https://ece.illinois.edu/about/directory/faculty/caesar) Overall Group Lead, Web Frontend and API Backend Teams Lead (2020 - 2021)
 - 🏆&nbsp;&nbsp;[**HackIllinois 2020**](https://devpost.com/software/uiuc-acm-member-to-meeting-matcher-service) 2nd place (2020)
 - ⭐️&nbsp;&nbsp;[**Theta Tau**](https://www.kappathetatau.org/) Web Chair (2019 - 2021)
 - 🏆&nbsp;&nbsp;[**54.io 2017**](http://founders.illinois.edu/fiftyfour/) 2nd Place (2017)
