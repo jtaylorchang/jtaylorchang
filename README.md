@@ -5,7 +5,7 @@
   - Dean's List
 
 ### Work Experience
-- ⏭&nbsp;&nbsp;SDE1 at [**Amazon**](https://www.amazon.com/) on the Kiva Picking Optimization team (2021 - Present)
+- 🔄&nbsp;&nbsp;SDE1 at [**Amazon**](https://www.amazon.com/) on the Kiva Picking Optimization team (2021 - Present)
 - ✅&nbsp;&nbsp;Course Assistant at [**UIUC**](https://cs.illinois.edu/academics/courses/cs242) on the CS 242 course staff (2021)
 - ✅&nbsp;&nbsp;SDE Intern at [**Amazon**](https://www.amazon.com/) on the Kiva Picking Optimization team (2020)
 - ✅&nbsp;&nbsp;SDE Intern at [**128 Technology**](https://www.128technology.com/) (acquired by [Juniper Networks](https://www.juniper.net/)) on the GUI team (2019)
