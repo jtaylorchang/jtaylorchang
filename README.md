@@ -3,6 +3,7 @@
   - 3.85 / 4.0 GPA
   - Graduated with High Honors
   - Dean's List
+  - Research Group Lead for the IoT Systems Research Group
 
 ### Work Experience
 - 🔄&nbsp;&nbsp;SDE1 at [**Amazon**](https://www.amazon.com/) on the Kiva Picking Optimization team (2021 - Present)
@@ -17,7 +18,7 @@
 
 ### Awards and Leadership
 - 🏆&nbsp;&nbsp;[**HackIllinois 2021**](https://devpost.com/software/actually-colab-real-time-collaborative-jupyter-editor) 1st Place (2021)
-- ⭐️&nbsp;&nbsp;[**IoT Systems Research Group**](https://ece.illinois.edu/about/directory/faculty/caesar) Overall Group Lead, Web Frontend and API Backend Teams Lead (2020 - 2021)
+- ⭐️&nbsp;&nbsp;[**IoT Systems Research Group**](https://ece.illinois.edu/about/directory/faculty/caesar) Research Group Lead, Web Frontend and API Backend Teams Lead (2020 - 2021)
 - 🏆&nbsp;&nbsp;[**HackIllinois 2020**](https://devpost.com/software/uiuc-acm-member-to-meeting-matcher-service) 2nd place (2020)
 - ⭐️&nbsp;&nbsp;[**Theta Tau**](https://www.kappathetatau.org/) Web Chair (2019 - 2021)
 - 🏆&nbsp;&nbsp;[**54 2017**](http://founders.illinois.edu/fiftyfour/) 2nd Place (2017)
